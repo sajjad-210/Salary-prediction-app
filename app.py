@@ -22,7 +22,7 @@ model = LinearRegression()
 model.fit(X, y)
 
 # Streamlit App UI
-st.title("Advanced Data Science Salary Prediction")
+st.title("Data Science Salary Prediction")
 
 st.header("Enter Your Details:")
 
